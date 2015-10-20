@@ -6,10 +6,10 @@ Description
 
 This is a ugly script for:
 
-* get the historic info about a server: old IP and webserver brand.
-* guess the origin server behind of a CDN scraping the historic info from Netcraft: reverse-proxy, cloudflare, akamai, Cloudfront...
+* get the historical info about a server: old IP and webserver brand.
+* guess the origin server behind a CDN scraping the historic info from Netcraft: reverse-proxy, Cloudflare, Akamai, Cloudfront...
 
-scraping the horrible netcraft  javascript webpage. I tried to solve the netcraft javascript issue using casperjs.
+scraping the horrible netcraft javascript webpage. I tried to solve the netcraft javascript issue using casperjs.
 
 Install
 -------
